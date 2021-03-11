@@ -6,9 +6,9 @@ We will highlight common use cases for internal routes (including links to sampl
 
 ### Resources
 
-A sample CF application used to demonstrate how internal routes work. This app can run on a public `*.apps.cloud.gov` route, or on an internal `*.apps.internal` route.
+A sample CF application used to demonstrate how internal routes work. This app can run on a public `*.app.cloud.gov` route, or on an internal `*.apps.internal` route.
 
-A simple nginx application that can be used on a public `*.apps.cloud.gov` route to proxy traffic to an app running on an internal route.
+A simple nginx application that can be used on a public `*.app.cloud.gov` route to proxy traffic to an app running on an internal route.
 
 ### Additional resources
 
