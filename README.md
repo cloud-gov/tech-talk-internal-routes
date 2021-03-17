@@ -4,6 +4,8 @@ cloud.gov provides flexibility for controlling how traffic moves between applica
 
 We will highlight common use cases for internal routes (including links to samples) as well as discuss the considerations you need to account for. We will demonstrate how you can improve the security posture of your applications, without changing application code, using internal routes with the [nginx buildpack](https://github.com/cloudfoundry/nginx-buildpack).
 
+Tech talk presentation in [PDF format](presentation.pdf).
+
 ### Resources
 
 A sample CF application used to demonstrate how internal routes work. This app can run on a public `*.app.cloud.gov` route, or on an internal `*.apps.internal` route.
