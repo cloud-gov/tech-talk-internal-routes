@@ -11,7 +11,7 @@ Therefore, you talk track would be:
 
 1. Show the app on an external route in a browser
 2. Show available domains including `apps.internal`. Describe moving it to an internal route. Show it is no longer accessible.
-3. Deploy nginx as the "frontend". Show it is now yet accessible b/c of a lack of policy (502 error).
+3. Deploy nginx as the "frontend". Show it is not yet accessible b/c of a lack of policy (502 error).
 4. Add a network policy and show it can now access the backend app.
 
 
